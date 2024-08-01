@@ -1,0 +1,11 @@
+[workspace]
+resolver = "2"
+
+members = [
+    "start-transcription-job",
+    "handle-successful-transcription",
+    "create-media-upload-link",
+    "query-knowledge-base",
+    "shared"
+]
+    
