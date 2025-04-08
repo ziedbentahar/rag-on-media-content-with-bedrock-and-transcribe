@@ -46,10 +46,10 @@ sequenceDiagram
     participant User
     participant API Gateway
     participant S3
-    participant Lambda: create_media_upload_link
-    participant Lambda: start_transcription_job
-    participant Lambda: handle_successful_transcription
-    participant Lambda: query_knowledge_base
+    participant Lambda as create_media_upload_link
+    participant Lambda as start_transcription_job
+    participant Lambda as handle_successful_transcription
+    participant Lambda as query_knowledge_base
     participant Transcribe
     participant Bedrock
 
