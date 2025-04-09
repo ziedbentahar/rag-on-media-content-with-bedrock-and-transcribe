@@ -1,6 +1,6 @@
 # RAG on media content with Bedrock Knowledge Bases and Amazon Transcribe
 
-Full code for this bog post:
+Full code for this bog post: test
 
 https://zied-ben-tahar.medium.com/using-rag-on-media-content-with-bedrock-knowledge-bases-and-amazon-transcribe-92abea166e68
 
